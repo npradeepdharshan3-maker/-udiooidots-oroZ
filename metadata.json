@@ -1,0 +1,6 @@
+{
+  "name": "Lumen Edit Studio",
+  "description": "A versatile creative editing studio for photos, graphic designs, editorial copy, and color grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Zoro. Studio — Creative Photo & Design Suite",
+  "short_name": "Zoro. Studio",
+  "description": "Professional creative editing studio for photos, viral social edits, CapCut typography, EXIF metadata, and graphic design.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0a0a0c",
+  "background_color": "#0a0a0c",
+  "categories": ["photo", "graphics", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
